@@ -1,0 +1,16 @@
+/*
+Design by Free CSS Templates
+http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+body {
+	margin-top: 49px;
+	padding: 0;
+	background: url(images/buk.jpg) repeat-x left top;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #333333;
+}
+<marquee  direction="left" behavior="alternate"><h1>YOUR ORDER WILL BE DELIVERED SOON....</h1>
+</marquee>
